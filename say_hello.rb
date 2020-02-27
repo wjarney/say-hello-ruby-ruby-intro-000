@@ -1,2 +1,3 @@
-def say_hello("Hello #{name}!")
+say_hello ("Hello #{name}!")
 end
+
