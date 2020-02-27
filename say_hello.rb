@@ -1,4 +1,5 @@
-def  say_hello("Hello #{name}!")
+def  say_hello("Hello #{name="Ruby Programmer"}!")
 end
 
-say_hello("Ruby")
+say_hello()
+
